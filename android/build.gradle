@@ -22,6 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
+    namespace "pax.plugin.pki.parhamkish.vakili.pax_player"
     compileSdk 31
 
     compileOptions {
